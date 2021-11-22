@@ -1,0 +1,28 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "mechanical keyboard",
+      "brand": "Razer",
+      "Price": 150
+    },
+    {
+      "id": 2,
+      "name": "mouse gamer",
+      "brand": "Razer",
+      "Price": 100
+    },
+    {
+      "id": 3,
+      "name": "mouse banger",
+      "brand": "Razer",
+      "Price": 75
+    },
+    {
+      "id": 4,
+      "name": "mouse pad",
+      "brand": "Razer",
+      "Price": 100
+    }
+  ]
+}
