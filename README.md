@@ -1,4 +1,4 @@
 # crud-Cadastro
 
-.frontend => Angular
-.backend => json-server
+- frontend => Angular
+- backend => json-server
